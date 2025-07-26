@@ -1,1 +1,1 @@
-# cyberion
+# cyberion yara rules
